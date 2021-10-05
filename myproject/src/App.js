@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <div>my name is tam shu hong</div>
       <div>this is my first object</div>
+      <div>3333</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
